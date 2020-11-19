@@ -19,4 +19,4 @@ This repository contains the following files:
 # Associated GitHub page:
 
 All of the content in this analysis is available at the following link on GitHub:
-**INSERT LINK HERE**
+**\https://github.com/sadieranck/Telomere_Analysis_2020.git**
